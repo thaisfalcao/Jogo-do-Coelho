@@ -23,7 +23,7 @@ function setup()
  
   rectMode(CENTER);
   ellipseMode(RADIUS);
-  textSize(50)
+  textSize(50);
 }
 
 function draw() 
